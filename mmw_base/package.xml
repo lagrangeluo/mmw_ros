@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<package>
+  <name>mmw_base</name>
+  <version>0.0.1</version>
+  <description> mmw_base </description>
+
+  <maintainer email="todo@todo.com">TODO</maintainer>
+
+  <license>BSD</license>
+
+  <url type="website">TODO</url>
+  <url type="bugtracker">TODO</url>
+  <url type="repository">TODO</url>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>mmw_msgs</build_depend>
+  <build_depend>roscpp</build_depend>
+  <build_depend>roslaunch</build_depend>
+  <build_depend>roslint</build_depend>
+  <build_depend>sensor_msgs</build_depend>
+  <build_depend>mmw_sdk</build_depend>
+  <run_depend>controller_manager</run_depend>
+  <run_depend>geometry_msgs</run_depend>
+  <run_depend>mmw_msgs</run_depend>
+  <run_depend>roscpp</run_depend>
+  <run_depend>sensor_msgs</run_depend>
+  <run_depend>topic_tools</run_depend>
+  <run_depend>mmw_sdk</run_depend>
+  <export></export>
+</package>

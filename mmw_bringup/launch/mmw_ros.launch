@@ -1,0 +1,5 @@
+<launch>
+    <include file="$(find mmw_base)/launch/mmw_base.launch" >
+        <arg name="port_name" default="can0" />
+    </include>
+</launch>

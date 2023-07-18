@@ -1,0 +1,5 @@
+uint8 radar_id
+uint8 radar_mode
+uint8 radar_roll_count
+uint8 radar_output_type
+uint8 radar_mount_dir

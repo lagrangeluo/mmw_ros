@@ -1,0 +1,2 @@
+uint8 num_of_cluster
+uint8 cluster_status_roll_count

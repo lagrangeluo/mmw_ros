@@ -1,0 +1,5 @@
+uint8 cluster_index
+float64 cluster_range
+int8 cluster_azimuth
+float64 cluster_vrel
+uint8 cluster_rollcount
